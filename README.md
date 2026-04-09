@@ -14,3 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Header -->
+# Hi, I'm Sujal Maharjan 👋
+
+**Full-stack Developer** | MERN Stack | Kathmandu, Nepal 🏔️
+
+<!-- About -->
+## 👨‍💻 About Me
+
+- 🔭 Currently building a **Virtual Workspace System**
+- 🛡️ Learning **Cybersecurity** — exploring ethical hacking & web security
+- 💬 Ask me about anything **MERN stack** related
+- 🌱 Always building, always learning
+- 📍 Based in Kathmandu, Nepal
+
+<!-- Tech Stack -->
+## 🛠️ Tech Stack
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+![Sujal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+<!-- Current Project -->
+## 🚀 Current Project
+
+**Virtual Workspace System** — A collaborative platform for remote teams.
+Built with the MERN stack. [View Repo →](https://github.com/YOUR_USERNAME/virtual-workspace)
+
+<!-- Connect -->
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
+
+<!-- Visitor Badge -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
