@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 ## 🚀 Current Project
 
 **Virtual Workspace System** — A collaborative platform for remote teams.
-Built with the MERN stack. [View Repo →](https://github.com/SujalMaharjan04/virtual-workspace)
+Built with the MERN stack. [View Repo →](https://github.com/SujalMaharjan04/virtual-Workspace-System)
 
